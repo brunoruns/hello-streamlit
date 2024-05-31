@@ -7,8 +7,6 @@ import os
 
 st.title("ChatBot tester")
 
-MISTRAL_API_KEY = "GXUM9nDqSFsQj1fDccroX5HXfMAECNTL"
-
 # client_mistral = MistralClient(api_key=st.secrets["MISTRAL_API_KEY"])
 client_mistral = MistralClient(api_key=MISTRAL_API_KEY)
 
