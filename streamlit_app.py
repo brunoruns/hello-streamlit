@@ -7,7 +7,7 @@ import os
 
 st.title("ChatBot tester")
 
-client_mistral = MistralClient(api_key=os.environ["MISTRAL_API_KEY"])
+# client_mistral = MistralClient(api_key=os.environ["MISTRAL_API_KEY"])
 
 
 if "mistral_model" not in st.session_state:
