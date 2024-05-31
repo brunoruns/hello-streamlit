@@ -2,8 +2,7 @@
 ```
 ⬆️ (Replace above with your app's name)
 ```
-
-Description of the app ...
+This app is used to show the connection between a streamlit frontend and a Mistra model API use
 
 ## Demo App
 
